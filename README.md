@@ -1,23 +1,26 @@
-# DH140-Final-Project
+# DH140 Final Project Brainstorm
 
 **Data and Visualizations of Interest**
+
 [Computational Perspectives in the History of Science](https://doi.org/10.1086/669891)
 
 This article describes the potential uses of data science to better understand the history of science. Drawing on millennia of writings and material sources, the history of science is diverse and dense. The article is written in a positive tone that emphasizes all that could be achieved if researchers can rely on computer technology to help them organize and better understand their data. Most interestingly, the article notes that the use of data science will allow for new questions to be asked, effectively expanding the historical discipline.
 
-![Visualization-of-Algarottis-World-from-Mapping-the-Republic-of-Letters.png](attachment:Visualization-of-Algarottis-World-from-Mapping-the-Republic-of-Letters.png)
+[Visualization-of-Algarottis-World-from-Mapping-the-Republic-of-Letters.png](attachment:Visualization-of-Algarottis-World-from-Mapping-the-Republic-of-Letters.png)
 
 [Source: Mapping the Republic of Letters - Stanford University](http://republicofletters.stanford.edu/)
 
-I would love to learn how to make a network visualization. This visualization comes from Stanford's "Mapping the Republic of Letters" project. It is really neat but also insightful to be able to see the connections between various figures of the period.
+I would love to learn how to make a network visualization. The visualization above comes from Stanford's "Mapping the Republic of Letters" project. It is really neat but also insightful to be able to see the connections between various figures of the period.
 
 **Ideas for data to Investigate**
+
+Potential Topics To Investigate:
 * history
 * literature
 * religion
 
-I am most interested in weeks 6 and 8: text analysis and network analysis. I am currently working on a history research project that examines the intellectual network of an early modern English author/mathematician/publisher and I would love to learn how to model these relationships digitally. Moreover, the ability for the computer to help you examine text facinates me.
 
+Potential Datasets To Investigate:
 1. [National Heritage List for England](https://historicengland.org.uk/listing/the-list/)
 2. [MoMA Collection](https://zenodo.org/record/164027#.Y8Li--zMKb8)
 3. [National Archives Catalog](https://www.archives.gov/developer/national-archives-catalog-dataset)
@@ -27,6 +30,8 @@ I am most interested in weeks 6 and 8: text analysis and network analysis. I am 
 7. [What is Text Analysis?](https://www.ceu.edu/tanad/what)
 8. [What is text mining? IBM](https://www.ibm.com/topics/text-mining)
 9. [British Architects on the Grand Tour in Eighteenth-Century Italy: Travels, People, Places](https://purl.stanford.edu/ct765rs0222)
+
+In order to make the most of analyzing these datasets, I am most interested in the topics of weeks 6 and 8: text analysis and network analysis. One's diction and relationship network can reveal a lot about one's attitude and thoughts on certain topics and how they may have come to hold these opinions.
 
 **Ideas from Curated Datasets and Project Lists**
 |Dataset Name      | Description   | Link   |
