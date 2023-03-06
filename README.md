@@ -41,5 +41,5 @@ In order to make the most of analyzing these datasets, I am most interested in t
 |Deaths in U.S. Jails      | This is a series of datasets releasing the previously undisclosed number of deaths in U.S. jails. It is broken down by state and could be an interesting comparative study of deaths by state. Looking at secondary material about differences in jail policies by states could illuminate potential reasons for the number of deaths. | [Link](https://www.reuters.com/investigates/special-report/usa-jails-graphic/)   |
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kcoo24/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kcoo24/DH140-Final-Project/HEAD)
 
